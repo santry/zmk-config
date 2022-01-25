@@ -33,7 +33,7 @@
    &mo 2
    &kp RALT
 
-   &kp Y
+   &kp BSPC
 
    &kp LCTRL
    &kp A
@@ -67,7 +67,7 @@
   &kp I
   &kp O
   &kp P
-  &kp BSPC
+  
                         >;
                 };
 
